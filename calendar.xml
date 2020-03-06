@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!DOCTYPE calendar>
+
+<days>
+	<day>
+		<number>1</number>
+		<tasks>
+			<task>Wash the dishes</task>
+			<task>Shovel the snow</task>
+			<task>Code this cool calendar web app</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>2</number>
+		<tasks>
+			<task>Water the plants.</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>3</number>
+		<tasks>
+			<task>Shop for school supplies</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>4</number>
+		<tasks>
+			<task>Buy groceries</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>5</number>
+		<tasks>
+			<task>Finish an ASP.NET MVC application</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>6</number>
+		<tasks>
+			<task>Learn Python</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>7</number>
+		<tasks>
+			<task>Go to that web development meetup</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>8</number>
+		<tasks>
+			<task>Become a pro in Fortnite</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>9</number>
+		<tasks>
+			<task>Get a job</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>10</number>
+		<tasks>
+			<task>Go visit alexlegard.ca for the 40th time</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>11</number>
+		<tasks>
+			<task>Get 99 mining!!!!</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>12</number>
+		<tasks>
+			<task>Learn how to play even shaman and odd paladin</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>13</number>
+		<tasks>
+			<task>Get rank 1 legend with mech hunter</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>14</number>
+		<tasks>
+			<task>Post memes to Reddit</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>15</number>
+		<tasks>
+			<task>Meet with your clients</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>16</number>
+		<tasks>
+			<task>Post some cool Youtube videos</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>17</number>
+		<tasks>
+			<task>Draw in your coloring book</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>18</number>
+		<tasks>
+			<task>Netflix and chill</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>19</number>
+		<tasks>
+			<task>Find out how to squash that bug with user validation</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>20</number>
+		<tasks>
+			<task>Draw out a new design for your client's website</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>21</number>
+		<tasks>
+			<task>Start writing some preliminary code for that website</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>22</number>
+		<tasks>
+			<task>Oops we haven't bought groceries for two weeks</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>23</number>
+		<tasks>
+			<task>Finish starving to death</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>24</number>
+		<tasks>
+			<task>Ace that exam</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>25</number>
+		<tasks>
+			<task>Find out why the jellyfish in your jellyfish lamp won't swim properly</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>26</number>
+		<tasks>
+			<task>Find out what TARDIS stands for</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>27</number>
+		<tasks>
+			<task>Ponder the meaning of life</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>28</number>
+		<tasks>
+			<task>Wallow in self-pity</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>29</number>
+		<tasks>
+			<task>Break the Celeste world record</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>30</number>
+		<tasks>
+			<task>Calculate the ultimate answer to life, the universe, and everything</task>
+		</tasks>
+	</day>
+	
+	<day>
+		<number>31</number>
+		<tasks>
+			<task>Add 21 and 21</task>
+		</tasks>
+	</day>
+</days>

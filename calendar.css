@@ -1,0 +1,46 @@
+body {
+	margin:0;
+}
+
+.header {
+	background-color:blue;
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+	padding-left:1em;
+	padding-right:1em;
+}
+
+.header__home, .header__title {
+	color:white;
+	text-decoration:none;
+	font-size:18pt;
+}
+
+.grid-container {
+	margin:auto;
+	margin-top:1em;
+	width:500px;
+	height:200px;
+	display:grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+	grid-template-rows:1fr 1fr 1fr 1fr;
+}
+
+.grid-container > div {
+	border:1px solid black;
+}
+
+.grid-container div:hover {
+	background-color:#A9A9A9;
+}
+
+.tasks-table {
+	width:500px;
+	margin:auto;
+	margin-top:1em;
+}
+.tasks-table th, .tasks-table td {
+	width:250px;
+	text-align:center;
+}
